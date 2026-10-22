@@ -9,13 +9,16 @@ export, Windows x64 packaging, source and build documentation.
 Modifications dated 2026-10-22: ProDesk 0.1.0 versioning, unattended deployment
 and ProDesk updates, local folder address book with JSON import and export.
 
+ProDesk 0.1.1: visible desktop window after deployment, left connection form,
+centered desktop number/password and lower-left settings gear.
+
 Copyright notices of RustDesk and its contributors are retained. The original
 LICENCE file is unchanged: GNU Affero General Public License, version 3.
 ProDesk modifications are distributed under the same AGPL-3.0 license.
 Dependencies retain their respective licenses and notices.
 
 Corresponding source, including the pinned hbb_common submodule and build
-scripts, is supplied as ProDesk-0.1.0-source.tar.gz with the release.
+scripts, is supplied as ProDesk-0.1.1-source.tar.gz with the release.
 Public releases and corresponding source: https://github.com/ServerProIT/ProDesk-Releases/releases
 Development repository: https://github.com/ServerProIT/ProDesk
 Every recipient of the binary must also receive access to the corresponding
